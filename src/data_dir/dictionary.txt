@@ -1,0 +1,12 @@
+site revenue
+merchant revenue
+company location
+company site
+employee location
+employee age
+site profit
+merchant profit
+tokensBySentence
+tagsBySentence
+tokenSizeBySentence
+context
